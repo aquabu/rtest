@@ -2,7 +2,7 @@
 
 So this is the second chapter.
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="post" host="https://www.cakes.com/v1/cakes/:id" path="" %}
 {% api-method-summary %}
 And here's how you can get a cake
 {% endapi-method-summary %}
