@@ -34,3 +34,13 @@ And here's how you can get a cake
 {% endapi-method-spec %}
 {% endapi-method %}
 
+Hmm... what if I put some markdown in here manually...
+```
+  X -> Y
+```
+yup:
+
+* 123
+* efg
+* hij
+* shrdlu
