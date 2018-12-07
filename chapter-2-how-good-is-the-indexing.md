@@ -26,7 +26,7 @@ And here's how you can get a cake
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -35,12 +35,15 @@ And here's how you can get a cake
 {% endapi-method %}
 
 Hmm... what if I put some markdown in here manually...
-```
+
+```text
   X -> Y
 ```
+
 yup:
 
 * 123
 * efg
 * hij
 * shrdlu
+
